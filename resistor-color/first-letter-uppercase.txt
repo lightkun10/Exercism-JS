@@ -1,0 +1,1 @@
+'your string'.replace(/\b\w/g, l => l.toUpperCase())
